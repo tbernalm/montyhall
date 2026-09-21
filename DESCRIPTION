@@ -1,0 +1,13 @@
+Package: montyhall
+Title: Monty Hall Simulator
+Version: 0.0.0.9000
+Authors@R: 
+    person("Tesia", "Bernal", , "tbernalm@asu.edu", role = c("aut", "cre"))
+Description: Simulates the Monty Hall game and compares the results of staying with the original door or switching doors.
+Depends:
+    dplyr
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Config/roxygen2/version: 8.1.0
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
