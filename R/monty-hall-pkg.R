@@ -17,7 +17,7 @@
 #'   given the option to switch, so this simulation was created
 #'   to test both strategies. 
 #'
-#' @param ... no arguments are used by the function.
+#' 
 #' 
 #' @return The function returns a length 3 character vector
 #'   indicating the positions of goats and the car.
@@ -43,7 +43,7 @@ create_game <- function()
 #' @details
 #' The function picks door 1, 2, or 3 at random.
 #'
-#' @param ... no arguments are used by the function.
+#' 
 #'
 #' @return A number between 1 and 3 representing the selected door.
 #'
@@ -185,7 +185,7 @@ determine_winner <- function( final.pick, game )
 #' The function plays one game and compares what happens when
 #' the player stays versus switches doors.
 #'
-#' @param ... no arguments are used by the function.
+#' 
 #'
 #' @return A data frame showing the strategy and whether it
 #' resulted in a win or loss.
