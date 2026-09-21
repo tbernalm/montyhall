@@ -6,9 +6,6 @@
 \usage{
 create_game()
 }
-\arguments{
-\item{...}{no arguments are used by the function.}
-}
 \value{
 The function returns a length 3 character vector
 indicating the positions of goats and the car.

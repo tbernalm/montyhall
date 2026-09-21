@@ -6,9 +6,6 @@
 \usage{
 select_door()
 }
-\arguments{
-\item{...}{no arguments are used by the function.}
-}
 \value{
 A number between 1 and 3 representing the selected door.
 }

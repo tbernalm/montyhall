@@ -6,9 +6,6 @@
 \usage{
 play_game()
 }
-\arguments{
-\item{...}{no arguments are used by the function.}
-}
 \value{
 A data frame showing the strategy and whether it
 resulted in a win or loss.
